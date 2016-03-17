@@ -1,5 +1,5 @@
 {
-    "px_to_rem": 40,
+    "px_to_rem": 65,
     "max_rem_fraction_length": 6,
-    "available_file_types": [".css", ".less", ".sass"]
+    "available_file_types": [".css", ".less", ".sass", ".scss"]
 }
